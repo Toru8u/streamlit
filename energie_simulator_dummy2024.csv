@@ -1,0 +1,13 @@
+Monat,PV_Erzeugung_kWh,Einspeisung_kWh,Netzbezug_kWh,Wallbox_kWh
+Januar,59,21,165,0
+Februar,101,48,135,0
+März,216,145,103,0
+April,292,202,103,64
+Mai,300,187,194,140
+Juni,300,154,145,116
+Juli,350,157,161,151
+August,372,222,125,106
+September,191,128,107,15
+Oktober,94,34,225,79
+November,51,14,391,212
+Dezember,41,11,417,233
